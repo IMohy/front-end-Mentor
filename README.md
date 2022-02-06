@@ -22,22 +22,13 @@ Frontend Mentor | Profile card component
 ![Desktop view](./desktop-design.jpg)
 ![Mobile View](./mobile-design.jpg)
 
-
+***************************
+### Created With
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 ***************
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
 
 ## Author
 
