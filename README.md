@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Front-end Style Guide
 
-You can use the [editor on GitHub](https://github.com/IMohy/front-end-Mentor/edit/Mohy/README.md) to maintain and preview the content for your website in Markdown files.
+## Layout
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The designs were created to the following widths:
 
-### Markdown
+- Mobile: 375px
+- Desktop: 1440px
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Colors
 
-```markdown
-Syntax highlighted code block
+### Primary
 
-# Header 1
-## Header 2
-### Header 3
+Dark cyan: hsl(185, 75%, 39%)
+Very dark desaturated blue: hsl(229, 23%, 23%)
+Dark grayish blue: hsl(227, 10%, 46%)
 
-- Bulleted
-- List
+### Neutral
 
-1. Numbered
-2. List
+Dark gray: hsl(0, 0%, 59%)
 
-**Bold** and _Italic_ and `Code` text
+## Typography
 
-[Link](url) and ![Image](src)
-```
+### Body Copy
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- Font size (name and stats): 18px
 
-### Jekyll Themes
+### Font
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IMohy/front-end-Mentor/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Family: [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans)
+- Weights: 400, 700
