@@ -20,7 +20,7 @@ Frontend Mentor | Profile card component
 ### Screenshot
 
 ![Desktop view](./desktop-design.jpg)
-![Mobile View](./mobile-design.jpg)
+                                                                                        ![Mobile View](./mobile-design.jpg)
 
 ***************************
 ### Created With
