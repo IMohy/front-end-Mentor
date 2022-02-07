@@ -7,12 +7,10 @@
   padding: 0;
   box-sizing: border-box;
 }
-
-
 body {
   background-color: #1AA0AC;
-  background-image: url(../images/bg-pattern-top.svg), 
-  url(../images/bg-pattern-bottom.svg);
+  background-image: url(images/bg-pattern-top.svg), 
+  url(images/bg-pattern-bottom.svg);
   background-position: right 45vw bottom 45vh, 45vw 45vh;
   background-repeat: no-repeat;
   display: flex;
@@ -23,8 +21,6 @@ body {
   font-family: 'Nunito Sans', sans-serif;
   overflow: hidden;
 }
-
-
 .container {
   color: rgb(7, 0, 0);
   background-color: #faf9f9;
@@ -79,7 +75,6 @@ body {
   font-size: 18px;
   font-weight: 700;
 }
-
 .nums :nth-child(n+4)  {
   color: var(--scolor);
   font-size: 12px;
@@ -91,29 +86,20 @@ body {
   border: 5px solid white;
   border-radius: 50%;
 }
-
-
 .back{
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   width: 100%;
 }
-
-/* On screens that are 992px wide or less, go from four columns to two columns */
 @media screen and (max-width: 1440px) {
 .container {
-
   width: 320px;
   height: 360px;
-
 }
-
-/* On screens that are 600px wide or less, make the columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 375px) {
 .container {
 
   width: 290px;
   height: 350px;
-
 }  }
 }
